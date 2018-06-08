@@ -141,3 +141,16 @@ h2,h3
 	background-size: cover ;
 	background-position:center; 
 }
+
+#titresarah {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: mediumpurple;
+
+}
+#imagesarah{ 
+border: none;
+    background: none;
+
+}
