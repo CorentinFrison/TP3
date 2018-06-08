@@ -148,6 +148,11 @@ h2,h3
 	background-position:center; 
 }
 
+div.element span{
+	color:brown;
+}
+
+
 #titresarah {
     font-size: 50px;
     font-weight: bold;
@@ -188,3 +193,4 @@ div.elementSarah
 	box-shadow: 5px 3px 3px #0a182e;
 	opacity: 0.8;
 }
+
