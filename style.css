@@ -141,3 +141,6 @@ h2,h3
 	background-size: cover ;
 	background-position:center; 
 }
+div.element span{
+	color:brown;
+}
