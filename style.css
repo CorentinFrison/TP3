@@ -157,6 +157,34 @@ h2,h3
 }
 #imagesarah{ 
 border: none;
-    background: none;
+background: none;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+   
 
+}
+
+#texteSarah{
+    color: white
+    
+}
+
+div.elementSarah
+{
+	float: left;
+	width: 31%;
+	min-width: 400px;
+	height: 400px;
+	overflow-y: scroll;
+	margin: 1%;
+	padding: 0%;
+	background-color: lightpink;
+	border: 1px solid #999999;
+	-webkit-border-radius: 25px 0px 25px 0px;
+	border-radius: 25px 0px;
+	-webkit-box-shadow: 5px 3px 3px #0a182e;
+	box-shadow: 5px 3px 3px #0a182e;
+	opacity: 0.8;
 }
