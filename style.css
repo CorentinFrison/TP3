@@ -45,6 +45,7 @@ body
 {
 	float: left;
 	width: 100%;
+    z-index: 99999999999999;
 	background: #333;
 }
 
